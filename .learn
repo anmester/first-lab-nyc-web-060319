@@ -8,3 +8,5 @@ tags:
 languages:
   - bash
 resources:
+cd first-lab-000
+touch my-new-file.txt
